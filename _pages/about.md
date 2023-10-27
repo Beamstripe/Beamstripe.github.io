@@ -45,3 +45,5 @@ One of my notable projects is the development of a Python-based CodeForces Comma
 https://github.com/Beamstripe/CodeForces-Crawler
 
 Additionally, due to the inconvenience of crawling substantial pages of texts, I have written a small script to implement more functions tailored to specific needs.
+
+[CrawlerAdvanced][https://github.com/Beamstripe/CodeForces-Crawler/blob/main/novelCrawlerAdvanced.py]
