@@ -1,7 +1,7 @@
 ---
 title: '2021ACMtraining-basics'
 date: 2021-05-05
-permalink: /posts/2021/05/basics/
+permalink: /posts/2021/05/Basic-training/
 tags:
   - preliminary knowledge
   - Chinese post
