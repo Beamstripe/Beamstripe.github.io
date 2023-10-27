@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220826111049840](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220826111049840.png)
 
 # 1001 [Winner Prediction](http://acm.hdu.edu.cn/showproblem.php?pid=7244)

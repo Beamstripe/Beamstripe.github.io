@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220809190513690](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220809190513690.png)
 
 # 1002 [Independent Feedback Vertex Set](http://acm.hdu.edu.cn/showproblem.php?pid=7210)

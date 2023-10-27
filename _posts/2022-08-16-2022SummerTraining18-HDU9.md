@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220816194306642](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220816194306642.png)
 
 # 1001[Arithmetic Subsequence](http://acm.hdu.edu.cn/showproblem.php?pid=7233)

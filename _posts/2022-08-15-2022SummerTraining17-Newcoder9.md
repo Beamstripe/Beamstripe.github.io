@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220815185539452](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220815185539452.png)
 
 # A [Car Show](https://ac.nowcoder.com/acm/contest/33194/A)

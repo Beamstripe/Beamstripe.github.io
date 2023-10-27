@@ -8,6 +8,7 @@ tags:
   - Algorithm
 ---
 
+
 # B [Watches](https://ac.nowcoder.com/acm/contest/33190/B)
 
 简单二分：注意向较大数取值时mid=(l+r+1)/2

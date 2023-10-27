@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220823115816087](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220823115816087.png)
 
 # B [Fall Guys-Perfect Match](https://ac.nowcoder.com/acm/contest/33195/B)

@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # D [Link with Game Glitch](https://ac.nowcoder.com/acm/contest/33187/D)
 
 题目大意：交换物品可以使$a_i$个物品$b_i$，变为$w\times c_i$个物品$d_i$，求不能无限交换的临界最大值$w$

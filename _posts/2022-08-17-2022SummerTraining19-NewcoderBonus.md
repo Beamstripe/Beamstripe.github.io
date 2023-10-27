@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220817192824198](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220817192824198.png)
 
 # E [Everyone is bot](https://ac.nowcoder.com/acm/contest/38727/E)

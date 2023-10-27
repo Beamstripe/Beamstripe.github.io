@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # 1001 [Static Query on Tree](http://acm.hdu.edu.cn/showproblem.php?pid=7150)
 
 题目大意：

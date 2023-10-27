@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # A [Task Computing](https://ac.nowcoder.com/acm/contest/33189/A)
 
 # D [Jobs (Easy Version)](https://ac.nowcoder.com/acm/contest/33189/D)

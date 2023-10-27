@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # A [Ancestor](https://ac.nowcoder.com/acm/contest/33188/A)
 
 题目大意：

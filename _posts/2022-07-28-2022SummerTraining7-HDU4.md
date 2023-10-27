@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # 1001 [Link with Bracket Sequence II](http://acm.hdu.edu.cn/showproblem.php?pid=7174)
 
 题目大意：一个未完全填充的字符串（长度 $n\le500$ ），求按照括号序列的要求填充序列情况总数（可能有 $10^9+7$ 种不同的括号）

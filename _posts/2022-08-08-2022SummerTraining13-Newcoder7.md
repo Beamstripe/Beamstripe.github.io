@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 ![image-20220808170134086](https://cdn.jsdelivr.net/gh/Beamstripe/img/img/2022/image-20220808170134086.png)
 
 # C [Constructive Problems Never Die](https://ac.nowcoder.com/acm/contest/33192/C)

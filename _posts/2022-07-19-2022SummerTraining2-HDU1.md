@@ -7,6 +7,7 @@ tags:
   - ACM
   - Algorithm
 ---
+
 # 1002：[Dragon slayer](http://acm.hdu.edu.cn/showproblem.php?pid=7139)
 
 题目大意：地图上有k面墙（水平/竖直），求从起点到终点最少需要打破几面墙
