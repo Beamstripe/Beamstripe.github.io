@@ -1,7 +1,7 @@
 ---
 title: '2022 Summer ACM training-Newcoder Vol.8'
 date: 2022-08-13
-permalink: /posts/2022/08/nc8/
+permalink: /posts/2022/08/2022SummerTraining16-Newcoder8/
 tags:
   - Chinese post
   - ACM

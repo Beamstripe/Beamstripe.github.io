@@ -1,7 +1,7 @@
 ---
 title: '2022 Summer ACM training-Newcoder Vol.9.1(Bonus contest)'
 date: 2022-08-17
-permalink: /posts/2022/08/ncbns/
+permalink: /posts/2022/08/2022SummerTraining19-NewcoderBonus/
 tags:
   - Chinese post
   - ACM

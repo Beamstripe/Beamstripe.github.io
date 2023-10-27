@@ -1,7 +1,7 @@
 ---
 title: '2022 Summer ACM training-HDU Vol.1'
 date: 2022-07-19
-permalink: /posts/2022/07/hd1/
+permalink: /posts/2022/07/2022SummerTraining2-HDU1/
 tags:
   - Chinese post
   - ACM
