@@ -85,7 +85,7 @@ author:
   bio              : "CS Undergraduate at CUGB, an enthusiastic software developer and algorithm researcher"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/22177939/beamstripe"
-  steam            : "Beamstripe"
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
