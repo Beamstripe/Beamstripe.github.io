@@ -42,8 +42,8 @@ Currently, I am actively involved in researching image augmentation algorithms. 
 
 One of my notable projects is the development of a Python-based CodeForces Command Line Crawler. This crawler efficiently retrieves ratings and contest information, greatly facilitating my daily training routine.
 
-https://github.com/Beamstripe/CodeForces-Crawler
+[Codeforces-Crawler](https://github.com/Beamstripe/CodeForces-Crawler)
 
 Additionally, due to the inconvenience of crawling substantial pages of texts, I have written a small script to implement more functions tailored to specific needs.
 
-[CrawlerAdvanced][https://github.com/Beamstripe/CodeForces-Crawler/blob/main/novelCrawlerAdvanced.py]
+[CrawlerAdvanced](https://github.com/Beamstripe/CodeForces-Crawler/blob/main/novelCrawlerAdvanced.py)
