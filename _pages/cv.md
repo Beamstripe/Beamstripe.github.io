@@ -72,7 +72,7 @@ For my school project, team members and I have completed the model building of r
 
 **Architecture**
 
-![image-20231028215122001](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/image-20231028215122001.png)
+![architecture](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-0.png)
 
 Based on the basic structure of Q-Learning, we devised the architecture for this specific problem. 
 
@@ -89,13 +89,13 @@ $$
 
 The idea behind SARSA is similar to Q-Learning, and the difference between them is how to actually choose strategy in practice. Instead of scanning through all states and find the best one to proceed in Q-Learning, SARSA opts for a more mild and robust approach. SARSA goes along with a optimal choice first and update Q function after that. Moreover, as we have encountered issues of low convergence rate, we further introduced $\varepsilon$-greedy strategy to update Q functions with a probability, avoiding trapping in the local optimum.
 
-![image-20231028220455863](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/image-20231028220455863.png)
+![strategy](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-1.png)
 
 ### Demonstration
 
 We have experimented and compared the correctness and efficiency of the two algorithm. Using Gym, we have built a sample scenario for the problem. The result is as follows: (Using Q-learning as example)
 
-![demo](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/demo.gif)
+![demo](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204247.gif)
 
 This is the training result after around 50 epochs.
 

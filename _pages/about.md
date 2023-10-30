@@ -16,13 +16,11 @@ Welcome to my home page!
 
 During my internship from July to August 2023, I focused on leveraging AI technology to generate high-quality and artistically valuable images for modern clothing designs. By utilizing the state-of-the-art Stable Diffusion model and implementing fine-tuning techniques, I successfully produced visually stunning clothing pictures. Additionally, I utilized the ControlNet architecture to customize the category and style of the generated clothes, ensuring alignment with client requirements. Here are some of the generated clothes pictures under the theme *ocean and coral reefs*.
 
-![input3](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/input3.png)
+![clothes-1](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-4.png)
 
-![input4](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/input4.jpg)
+![clothes-2](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-3.png)
 
-![bodysuit](https://picbed-1321448974.cos.ap-beijing.myqcloud.com/img/bodysuit.png)
-
-
+![clothes-3](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-2.png)
 
 To enhance the generation process, I developed a JavaScript script that expanded the functionalities of the existing interface and significantly improved efficiency. On average, it now takes only 13 seconds to generate a fixed style clothes picture with high quality.
 
