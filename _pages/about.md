@@ -18,7 +18,7 @@ During my internship from July to August 2023, I focused on leveraging AI techno
 
 ![clothes-1](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-4.png)
 
-![clothes-2](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-3.png)
+![clothes-2](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-3.jpg)
 
 ![clothes-3](https://picbedpub-1321448974.cos.ap-hongkong.myqcloud.com/20231030204123-2.png)
 
